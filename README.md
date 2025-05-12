@@ -88,16 +88,3 @@ A relational database organizes data into tables that are related through primar
 * Logical: Data models and entities
 * Physical: Implementation, indexing, storage
 
----
-
-## 📦 How to Use
-
-* Explore each section for fundamental database concepts.
-* Utilize tables for quick comparisons and insights.
-* Dive into additional research topics for advanced understanding.
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License. See the LICENSE file for more information.
